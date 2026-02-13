@@ -1,7 +1,9 @@
+"use client";
+
 import Link from "next/link";
 import { Container } from "@/components/shared/Container";
 
-export function Footer() {
+export default function Footer() {
   return (
     <footer className="border-t border-slate-200">
       <Container className="py-10 text-sm text-slate-600">

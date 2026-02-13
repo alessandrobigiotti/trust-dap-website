@@ -185,8 +185,8 @@ const translations = {
     "pricing.cta.contact": "Parla con un Esperto",
 
     // Home
-    "home.hero.badge": "Enterprise Digital Twin Platform",
-    "home.hero.title": "Digital Twin e Identità Digitale Verificabile per l’Industria",
+    "home.hero.badge": "Enterprise Verifiable Trust Platform",
+    "home.hero.title": "Digital Certificate, Asset, Process and Product Passport e Identità Digitale Verificabile per l’Industria",
     "home.hero.subtitle": "Replica digitale dei processi industriali con dati e credenziali verificabili: asset e prodotti certificati, automazione efficiente, compliance e tracciabilità completa lungo la filiera.",
     "home.hero.cta": "Scopri la Piattaforma",
     "home.hero.demo": "Richiedi Demo",
